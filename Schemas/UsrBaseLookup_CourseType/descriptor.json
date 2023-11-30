@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2fdbad38-2bf2-4dd0-ab1b-9b9e74940e9f",
+    "Name": "UsrBaseLookup_CourseType",
+    "ModifiedOnUtc": "\/Date(1700445432000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип курса",
+    "DependsOn": []
+  }
+}
