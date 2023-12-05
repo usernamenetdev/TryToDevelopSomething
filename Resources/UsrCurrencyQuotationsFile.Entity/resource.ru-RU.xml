@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файл и ссылка объекта Котировки валют" />
+			<Item Name="Columns.UsrCurrencyQuotations.Caption" Value="Котировки валют" />
+		</Items>
+	</Group>
+</Resources>

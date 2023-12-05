@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "5b0a8d8b-860f-0fd7-6a36-dbc3cfdb574c",
     "Name": "UsrBaseLookup_CourseType",
-    "ModifiedOnUtc": "\/Date(1701259566000)\/",
+    "ModifiedOnUtc": "\/Date(1701337269000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "2fdbad38-2bf2-4dd0-ab1b-9b9e74940e9f",
@@ -11,7 +11,7 @@
     "Columns": [
       {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
@@ -25,7 +25,7 @@
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"

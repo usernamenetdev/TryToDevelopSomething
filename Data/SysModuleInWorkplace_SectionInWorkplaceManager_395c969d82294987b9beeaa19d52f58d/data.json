@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "395c969d-8229-4987-b9be-eaa19d52f58d"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "79770671-cde2-4c0f-9078-a4ff68703def",
+          "DisplayValue": "Приложения"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "85dbe799-2da4-49e6-a610-39f270911e84",
+          "DisplayValue": "Котировки валют"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 19
+        }
+      ]
+    }
+  ]
+}
