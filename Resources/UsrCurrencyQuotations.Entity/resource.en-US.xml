@@ -2,8 +2,16 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="Columns.UsrCashBuyCourse.Caption" Value="Cash buy course" />
+			<Item Name="Columns.UsrCashSellCourse.Caption" Value="Cash sell course" />
+			<Item Name="Columns.UsrCourse.Caption" Value="Course" />
+			<Item Name="Columns.UsrCourseType.Caption" Value="Course type" />
+			<Item Name="Columns.UsrCurrency.Caption" Value="Currency" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNoncashBuyCourse.Caption" Value="Non cash buy course" />
+			<Item Name="Columns.UsrNoncashSellCourse.Caption" Value="Non cash sell course" />
 			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrQuotationDate.Caption" Value="Quotation date" />
 		</Items>
 	</Group>
 </Resources>

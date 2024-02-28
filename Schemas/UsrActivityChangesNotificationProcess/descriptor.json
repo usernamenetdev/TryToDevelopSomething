@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ca6ce82-c0a0-4c05-a316-ebc0863c2c8b",
+    "Name": "UsrActivityChangesNotificationProcess",
+    "ModifiedOnUtc": "\/Date(1709118744000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомление об изменении активностей"
+  }
+}

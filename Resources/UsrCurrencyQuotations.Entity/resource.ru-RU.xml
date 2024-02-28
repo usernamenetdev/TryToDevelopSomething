@@ -3,8 +3,16 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Котировки валют" />
+			<Item Name="Columns.UsrCashBuyCourse.Caption" Value="Курс наличной покупки" />
+			<Item Name="Columns.UsrCashSellCourse.Caption" Value="Курс наличной продажи" />
+			<Item Name="Columns.UsrCourse.Caption" Value="Курс" />
+			<Item Name="Columns.UsrCourseType.Caption" Value="Тип курса" />
+			<Item Name="Columns.UsrCurrency.Caption" Value="Валюта" />
 			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNoncashBuyCourse.Caption" Value="Курс безналичной покупки" />
+			<Item Name="Columns.UsrNoncashSellCourse.Caption" Value="Курс безналичной продажи" />
 			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrQuotationDate.Caption" Value="Дата котировки" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>

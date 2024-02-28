@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bea4b3ed-0f1c-4bef-b746-e7a7afe923ee",
+    "Name": "UsrBankAccountsInFolder",
+    "ModifiedOnUtc": "\/Date(1704870799000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Банковские счета в группе"
+  }
+}

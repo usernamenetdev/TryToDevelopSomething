@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c98c53ff-92d1-48a6-a7e3-c943ff35b7bd",
+    "Name": "UsrCurrencyQuotations1MiniPage",
+    "ModifiedOnUtc": "\/Date(1705492342000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrCurrencyQuotations1MiniPage"
+  }
+}

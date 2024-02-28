@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента	" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAxNiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMTYiPjxnIGZpbGw9IiM4ZWNiNjAiPjxjaXJjbGUgY3g9IjExLjUiIGN5PSI4LjUiIHI9IjEuOSIvPjxwYXRoIGQ9Ik0xOS40LDZjLTAuNy0zLjQtMy43LTYtNy4zLTZDOS4xLDAsNi42LDEuNiw1LjQsNEMyLjMsNC40LDAsNi45LDAsMTBjMCwzLjMsMi43LDYsNiw2aDEzDQoJCWMyLjgsMCw1LTIuMiw1LTVDMjQsOC40LDIyLDYuMiwxOS40LDZ6IE0xNiwxMy4ybC0yLjUtMS44Yy0wLjYsMC40LTEuMiwwLjYtMiwwLjZDOS42LDEyLDgsMTAuNCw4LDguNVM5LjYsNSwxMS41LDUNCgkJQzEzLjQsNSwxNSw2LjYsMTUsOC41YzAsMC41LTAuMSwxLjEtMC40LDEuNWwyLjQsMS44TDE2LDEzLjJ6Ii8+PC9nPjwvc3ZnPg==" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00LjYwNyAxMC41MjljLTEuNTM1LjQ1OC0yLjU5MSAxLjk5LTIuNjA3IDMuNjQ4di4wMWMwIDEuNDE0LjQ5NyAyLjYzIDEuMzYxIDMuNDk0Ljg2Mi44NiAyLjAzNSAxLjMxOSAzLjI5IDEuMzE5aDEwLjI1N0MxOS44NTYgMTkgMjIgMTYuMjc2IDIyIDEzLjI0M2MwLTMuMDMzLTIuMTQ0LTUuNzU3LTUuMDkyLTUuNzU3YTQuNTkgNC41OSAwIDAgMC0xLjk0My40MjdjLS44NDItMS42NC0yLjIxMi0yLjYtNC4wNjMtMi44NkM3LjcgNC42IDQuOTUzIDcuMDg3IDQuNjExIDEwLjM2N2ExLjAwNyAxLjAwNyAwIDAgMC0uMDA0LjE2em0xLjk5NS4wMzFjMS40MS40OCAyLjM0MiAxLjkxNSAyLjMyNyAzLjQ5YTEgMSAwIDEgMS0yLS4wMTljLjAxLTEuMDM3LS43MTEtMS42Ni0xLjQwOS0xLjY0LS43MzcuMDIyLTEuNTA4Ljc0Ni0xLjUyIDEuOC4wMDEuOTMxLjMyIDEuNjIuNzc1IDIuMDc1LjQ2LjQ2IDEuMTEyLjczNCAxLjg3Ni43MzRoMTAuMjU3QzE4LjQ4IDE3IDIwIDE1LjQ2NSAyMCAxMy4yNDNjMC0yLjIyMS0xLjUyLTMuNzU3LTMuMDkyLTMuNzU3cy0zLjA5MiAxLjUzNi0zLjA5MiAzLjc1N2ExIDEgMCAxIDEtMiAwYzAtMS41NjMuNTctMy4wNDUgMS41MjYtNC4xMTNhMS4wMDYgMS4wMDYgMCAwIDEtLjA2OC0uMTIzYy0uNTQzLTEuMTc4LTEuMzc4LTEuNzk1LTIuNjUxLTEuOTc0LTEuOTA0LS4yNy0zLjc3MSAxLjIwMi00LjAyMSAzLjUyN3oiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJNOC45MyAxNC4wNWMuMDE0LTEuNTc1LS45MTgtMy4wMS0yLjMyOC0zLjQ5LjI1LTIuMzI1IDIuMTE3LTMuNzk2IDQuMDItMy41MjcgMS4yNzQuMTggMi4xMDkuNzk2IDIuNjUyIDEuOTc0LjAyLjA0My4wNDMuMDg0LjA2OC4xMjMtLjk1NiAxLjA2OC0xLjUyNiAyLjU1LTEuNTI2IDQuMTEzYTEgMSAwIDAgMCAyIDBjMC0yLjIyMSAxLjUyLTMuNzU3IDMuMDkyLTMuNzU3UzIwIDExLjAyMiAyMCAxMy4yNDNDMjAgMTUuNDY1IDE4LjQ4IDE3IDE2LjkwOCAxN0g2LjY1MWMtLjc2NCAwLTEuNDE2LS4yNzUtMS44NzYtLjczNC0uNDU1LS40NTQtLjc3NC0xLjE0NC0uNzc1LTIuMDc0LjAxMi0xLjA1NS43ODMtMS43OCAxLjUyLTEuODAxLjY5OC0uMDIgMS40Mi42MDMgMS40MSAxLjY0YTEgMSAwIDEgMCAyIC4wMnoiIGZpbGw9IiNGOTc2M0QiLz48cGF0aCBkPSJtOSAxMy4yODYgMi4yODYgMi4yODVNMTEuMjg2IDE1LjU3MSAxNS40IDExIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" />
+			<Item Name="LocalizableStrings.AccountPageGeneralDetailCaption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Caption" Value="CompletenessCaption" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profile completion" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Caption" Value="EnrichedDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Caption" Value="EnrichedDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Caption" Value="EnrichmentDefaultButtonCaption" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Caption" Value="EnrichmentDefaultButtonHint" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="At least one social network profile must be specified for the account in order to run this action." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="At least one social network profile must be specified for the account in order to run this action" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Caption" Value="RightsErrorMessage" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Insufficient rights to perform this action. Contact your system administrator." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

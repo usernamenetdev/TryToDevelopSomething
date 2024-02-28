@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Банковские счета" />
+			<Item Name="Columns.UsrAccountStatus.Caption" Value="Состояние счёта" />
+			<Item Name="Columns.UsrBalance.Caption" Value="Остаток" />
+			<Item Name="Columns.UsrClient.Caption" Value="Клиент" />
+			<Item Name="Columns.UsrCloseDate.Caption" Value="Дата закрытия счёта" />
+			<Item Name="Columns.UsrCurrency.Caption" Value="Валюта" />
+			<Item Name="Columns.UsrName.Caption" Value="Номер счёта" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrOpenDate.Caption" Value="Дата открытия счёта" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

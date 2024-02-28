@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b7a8854-b907-440c-b591-6018e74b9519",
+    "Name": "UsrNotificationProcessTask",
+    "ModifiedOnUtc": "\/Date(1709116165000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Отправить уведомление пользователю"
+  }
+}

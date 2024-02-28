@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0d29be4-8aba-4250-a82b-55e60724e4e1",
+    "Name": "UsrBankAccountsPage",
+    "ModifiedOnUtc": "\/Date(1706014775000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Банковские счета\""
+  }
+}

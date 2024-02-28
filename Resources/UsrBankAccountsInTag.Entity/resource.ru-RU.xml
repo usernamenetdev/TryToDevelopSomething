@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тег в записи раздела Банковские счета" />
+			<Item Name="Columns.Entity.Caption" Value="Банковские счета" />
+			<Item Name="Columns.Tag.Caption" Value="Тег раздела Банковские счета" />
+		</Items>
+	</Group>
+</Resources>

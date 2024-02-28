@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "139e03fa-c9b1-4508-a276-454d283e1bcf",
+    "Name": "CurrencyPage",
+    "ModifiedOnUtc": "\/Date(1706015623000)\/",
+    "Parent": {
+      "UId": "d93ccd70-354a-444d-949b-2ccc19fd8e0d",
+      "Name": "CurrencyPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "CurrencyPage"
+  }
+}

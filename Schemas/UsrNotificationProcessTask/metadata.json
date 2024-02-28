@@ -1,0 +1,37 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "1b7a8854-b907-440c-b591-6018e74b9519",
+      "A2": "UsrNotificationProcessTask",
+      "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "72005765-582d-6ec3-8ccb-7f0a5afe2141",
+      "B8": "1.3.0.3026",
+      "FJ1": [
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "a9b6dd06-8ef9-8948-ba54-c9425d958fda",
+          "A2": "UsrNotificationReciever",
+          "A3": "1b7a8854-b907-440c-b591-6018e74b9519",
+          "A4": "1b7a8854-b907-440c-b591-6018e74b9519",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {}
+        },
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "db0f59ed-d9ef-f97c-c167-a785c3c2e09d",
+          "A2": "UsrNotificationContent",
+          "A3": "1b7a8854-b907-440c-b591-6018e74b9519",
+          "A4": "1b7a8854-b907-440c-b591-6018e74b9519",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {}
+        }
+      ],
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

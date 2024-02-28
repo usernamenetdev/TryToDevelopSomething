@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+    "Name": "UsrBankAccounts",
+    "ModifiedOnUtc": "\/Date(1704878650000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Банковские счета"
+  }
+}

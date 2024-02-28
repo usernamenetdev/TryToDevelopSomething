@@ -24,7 +24,6 @@
   "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
   "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
   "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
-  "E2": 1,
   "E5": false
 }
 + MetaData.Schema.D2 {
@@ -36,12 +35,102 @@
   "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
   "E5": false
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","07fc3d6b-5cbc-4bdd-80b7-5a48e8371a23","a1f4755f-03cb-49a8-80d6-642e6a365a1f"]
++ MetaData.Schema.D2 {
+  "UId": "e599e5d1-3c67-40a9-8447-d65adb105993",
+  "A2": "UsrCourseType",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2fdbad38-2bf2-4dd0-ab1b-9b9e74940e9f",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "95798fc4-2828-4399-9fe3-ec739b111137"
+  },
+  "E17": "UsrCourseTypeId",
+  "E18": "UsrCourseTypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "e48ea8c0-7766-4ab0-8559-7971fda1e8bf",
+  "A2": "UsrCurrency",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2d36aca6-5b8c-4122-9648-baf3b7f8256d",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCurrencyId",
+  "E18": "UsrCurrencyName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2cadae56-4b4b-4ce1-9c9f-bc5cbbbbde17",
+  "A2": "UsrCourse",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "6f09bb78-ac5e-4cfa-bcc2-579b84b39c36",
+  "A2": "UsrNoncashBuyCourse",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "bb593cb2-84dc-43e5-ba68-65878780e027",
+  "A2": "UsrNoncashSellCourse",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "18599946-9c1e-4cb5-bd11-2392989a6660",
+  "A2": "UsrCashBuyCourse",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "f212e45d-c7fb-40b9-a66d-232affda4ce7",
+  "A2": "UsrCashSellCourse",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "643841c2-6ba1-48f6-87fe-e2d867d9b184",
+  "A2": "UsrQuotationDate",
+  "A3": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A4": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44",
+  "E2": 1
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","07fc3d6b-5cbc-4bdd-80b7-5a48e8371a23","a1f4755f-03cb-49a8-80d6-642e6a365a1f","e599e5d1-3c67-40a9-8447-d65adb105993","e48ea8c0-7766-4ab0-8559-7971fda1e8bf","2cadae56-4b4b-4ce1-9c9f-bc5cbbbbde17","6f09bb78-ac5e-4cfa-bcc2-579b84b39c36","bb593cb2-84dc-43e5-ba68-65878780e027","18599946-9c1e-4cb5-bd11-2392989a6660","f212e45d-c7fb-40b9-a66d-232affda4ce7","643841c2-6ba1-48f6-87fe-e2d867d9b184"]
+= MetaData.Schema.D20.A2 "UsrCurrencyQuotationsEvents"
 - MetaData.Schema.EG1.B6
 - MetaData.Schema.EG1.BK29
 - MetaData.Schema.EG1.BK30
 - MetaData.Schema.D1
-- MetaData.Schema.D20
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
 + MetaData.Schema.B7 false
 + MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
 + MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false

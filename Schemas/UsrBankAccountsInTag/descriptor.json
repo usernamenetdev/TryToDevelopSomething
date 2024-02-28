@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "64c0aba4-1783-4952-bd11-ee3558caf224",
+    "Name": "UsrBankAccountsInTag",
+    "ModifiedOnUtc": "\/Date(1704870811000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Банковские счета"
+  }
+}

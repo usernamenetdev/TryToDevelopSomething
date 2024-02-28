@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9ef8aaef-33fc-4e18-a27d-2a23a7c60aa3",
+    "Name": "UsrBaseLookup_AccountStatus",
+    "ModifiedOnUtc": "\/Date(1704870307000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние счёта"
+  }
+}

@@ -1,0 +1,128 @@
+= MetaData.Schema.UId "9d594d8d-c6dc-4c64-af9f-b86ce394f35c"
+= MetaData.Schema.A2 "UsrBankAccounts"
+= MetaData.Schema.A5 "2f794cb2-4551-49bd-bc09-8834ed7d058f"
+= MetaData.Schema.B6 "72005765-582d-6ec3-8ccb-7f0a5afe2141"
+= MetaData.Schema.B8 "1.3.0.3026"
+= MetaData.Schema.EG1.UId "835bab2d-b2a9-4ce2-a0fc-855ddf82afa5"
+= MetaData.Schema.EG1.A2 "UsrBankAccountsEventsProcess"
+= MetaData.Schema.EG1.A5 "2f794cb2-4551-49bd-bc09-8834ed7d058f"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "1.3.0.3026"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "8c8e8c26-7ed5-443f-9b39-6792f855bf0d"
++ MetaData.Schema.D2 {
+  "UId": "8c8e8c26-7ed5-443f-9b39-6792f855bf0d",
+  "A2": "UsrName",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "8401b2db-6073-4f0c-bcc1-eed40745a5fb",
+  "A2": "UsrNotes",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "23d9650f-59f9-4182-a019-f764530c52d1",
+  "A2": "UsrClient",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "UsrClientId",
+  "E18": "UsrClientName"
+}
++ MetaData.Schema.D2 {
+  "UId": "432781fb-0900-45b3-b567-1888a62c9ff4",
+  "A2": "UsrCurrency",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2d36aca6-5b8c-4122-9648-baf3b7f8256d",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCurrencyId",
+  "E18": "UsrCurrencyName"
+}
++ MetaData.Schema.D2 {
+  "UId": "e5566fa9-925d-4b9e-be69-b2e6834a2f53",
+  "A2": "UsrOpenDate",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "8bb0a0cb-c3b7-4d03-a3e8-e73209410c9a",
+  "A2": "UsrCloseDate",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "7df098d1-d3d8-460a-b17c-dcb4c9c7a95e",
+  "A2": "UsrBalance",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "27930d74-57ac-49e7-8497-d95d44b3d33e",
+  "A2": "UsrAccountStatus",
+  "A3": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A4": "9d594d8d-c6dc-4c64-af9f-b86ce394f35c",
+  "A5": "2f794cb2-4551-49bd-bc09-8834ed7d058f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "9ef8aaef-33fc-4e18-a27d-2a23a7c60aa3",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "b97e0087-c7a5-40a9-8f31-992763aeb098"
+  },
+  "E17": "UsrAccountStatusId",
+  "E18": "UsrAccountStatusName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","8c8e8c26-7ed5-443f-9b39-6792f855bf0d","8401b2db-6073-4f0c-bcc1-eed40745a5fb","23d9650f-59f9-4182-a019-f764530c52d1","432781fb-0900-45b3-b567-1888a62c9ff4","e5566fa9-925d-4b9e-be69-b2e6834a2f53","8bb0a0cb-c3b7-4d03-a3e8-e73209410c9a","7df098d1-d3d8-460a-b17c-dcb4c9c7a95e","27930d74-57ac-49e7-8497-d95d44b3d33e"]
+= MetaData.Schema.D20.A2 "UsrBankAccountsEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

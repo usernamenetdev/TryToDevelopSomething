@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "883e0a16-7ec4-48ac-8aea-2748e3282d86",
     "Name": "UsrCurrencyQuotations",
-    "ModifiedOnUtc": "\/Date(1701346096000)\/",
+    "ModifiedOnUtc": "\/Date(1704873758000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"

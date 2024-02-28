@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a52d40c0-7d6a-46eb-814d-9b695e5faeab",
+    "Name": "UsrBankAccountsf2ab2162Section",
+    "ModifiedOnUtc": "\/Date(1704870765000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Банковские счета\""
+  }
+}
