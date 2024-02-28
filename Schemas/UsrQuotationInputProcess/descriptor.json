@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "3e534105-7381-40c1-9202-3a7d86c03225",
     "Name": "UsrQuotationInputProcess",
-    "ModifiedOnUtc": "\/Date(1709119052000)\/",
+    "ModifiedOnUtc": "\/Date(1709120335000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Ввод новой котировки"
   }

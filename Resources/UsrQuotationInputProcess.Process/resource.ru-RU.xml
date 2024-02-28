@@ -45,8 +45,9 @@
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.Requests.Caption" Value="Заявка" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.ActivityUserTask3.Parameters.RoleId.DisplayValue" Value="[#Справочник.Роли (представление).Верификатор.ed38e7e2-02fc-4e68-8073-e9d1f5ec308c#]" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
-			<Item Name="BaseElements.ActivityUserTask3.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ActivityUserTask3.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.ShowInScheduler.DisplayValue" Value="false" />
 			<Item Name="BaseElements.ActivityUserTask3.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
